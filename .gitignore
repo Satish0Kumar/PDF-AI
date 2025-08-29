@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# Environment variables
+.env
+
+# Streamlit
+.streamlit/secrets.toml # Keep this out of GitHub too!
+
+# OS
+.DS_Store
